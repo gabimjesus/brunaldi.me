@@ -1,6 +1,6 @@
 # paulogdm.com
 
-Alias of [paulogdm.now.sh](https://paulogdm.now.sh)
+Alias of [edubrunaldi.now.sh](https://edubrunaldi.now.sh)
 
 ## Deploy
 
