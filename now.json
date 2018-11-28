@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "name": "paulogdm.com",
+  "name": "brunaldi.me",
   "alias": [
-    "paulogdm.now.sh",
-    "paulogdm.com"
+    "edubrunaldi.now.sh",
+    "brunaldi.me"
   ],
   "regions": ["sfo1", "gru1"],
   "builders": [
