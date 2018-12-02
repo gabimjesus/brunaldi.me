@@ -23,15 +23,17 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-  <!-- Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119871413-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || []
-    function gtag () { dataLayer.push(arguments) }
-    gtag('js', new Date())
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QDQ7KX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-    gtag('config', 'UA-119871413-1')
-  </script>
+
+
+
+
+
+
 
   <!-- Cookies -->
   <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
@@ -45,6 +47,15 @@
 </head>
 
 <body class="background-black">
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5QDQ7KX');</script>
+  <!-- End Google Tag Manager -->
+  
   <div id="mainpage" class="container">
 
     <div class="px-4 py-4 clearfix">
@@ -97,9 +108,9 @@
       </div>
     </div>
 
-    <!-- <badge-title v-bind:title="locale[selectedLocale].sections.personal.title" v-bind:subtitle="locale[selectedLocale].sections.personal.subtitle"></badge-title>
+    <badge-title v-bind:title="locale[selectedLocale].sections.personal.title" v-bind:subtitle="locale[selectedLocale].sections.personal.subtitle"></badge-title>
 
-    <div class="badge-container">
+    <!-- <div class="badge-container">
       <badge image="/assets/crypto.png" v-bind:content="locale[selectedLocale].sections.personal.crypto"></badge>
       <badge image="/assets/pcmasterrace.png" v-bind:content="locale[selectedLocale].sections.personal.pcmasterrace"></badge>
       <badge image="/assets/owblack.png" v-bind:content="locale[selectedLocale].sections.personal.overwatch"></badge>
