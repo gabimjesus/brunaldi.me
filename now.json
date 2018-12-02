@@ -6,7 +6,7 @@
     "brunaldi.me"
   ],
   "regions": ["sfo1", "gru1"],
-  "builders": [
+  "builds": [
     { "src": "/*.html", "use": "@now/static" },
     { "src": "/*.js", "use": "@now/static" },
     { "src": "/*.css", "use": "@now/static" },
