@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', sans-serif; !important
+  font-family: 'Lato', sans-serif !important
 }
 
 h1 {
@@ -14,13 +14,13 @@ h6 {
 }
 
 a {
-  text-decoration: none; !important;
+  text-decoration: none !important;
   transition: all 1s ease;
   color: inherit;
 }
 
 a:hover {
-  text-decoration: none; !important;
+  text-decoration: none !important;
   color: #FF6600;
   transition: all 1s ease;
 }
@@ -61,10 +61,6 @@ a:hover {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-}
-
-.front {
-
 }
 
 .back {
@@ -118,7 +114,6 @@ a:hover {
   -ms-user-select: none;
   user-select: none;
   -webkit-user-drag: none;
-  user-drag: none;
 }
 
 .me-white {
@@ -136,7 +131,6 @@ a:hover {
   -ms-user-select: none;
   user-select: none;
   -webkit-user-drag: none;
-  user-drag: none;
 }
 
 .me-white::after {
@@ -178,7 +172,6 @@ a:hover {
   -ms-user-select: none;
   user-select: none;
   -webkit-user-drag: none;
-  user-drag: none;
 }
 
 .me-black::after {
