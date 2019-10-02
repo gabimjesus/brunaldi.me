@@ -5,38 +5,16 @@ const locale = {
       personal: {
         title: 'Personal',
         subtitle: 'A few things about me.',
-        pcmasterrace: `I've always had a PC at home. <br>
-        I assembled my very own first PC in 2010. <br>
-        PC Master Race FTW. <br>
-        <a target="_blank" href="https://www.reddit.com/r/pcmasterrace/"><i class="fas fa-external-link-alt"></i></a>
-        `,
-        crypto: `I started with Litecoin and Bitcoin in 2012.
-        I only went to study the technology after 2015. <br>
+        crypto: `I started with Bitcoin, Ethereum and Monero in 2016.
+        I only went to study the technology in the end of 2017. <br>
         Ethereum is awesome! <br>
-        If you say to me: "I don't like Bitcoin, but blockchain is very interesting." I will die discreetly inside.<br>
-        <a target="_blank" href="https://www.reddit.com/r/Bitcoin/"><i class="fas fa-external-link-alt"></i></a>
+        <a target="_blank" href="https://www.reddit.com/r/monero/"><i class="fas fa-external-link-alt"></i></a>
         `,
         overwatch: `I love to play Overwatch! <br>
-        My "Career High" is 4075. <br>
-        I consider myself a flex player, but I play better as a tank or support. <br>
+        My "Career High" is 3070. haha <br>
+        I consider myself a flex player, but I play better as a support. <br>
         <a target="_blank" href="https://playoverwatch.com"><i class="fas fa-external-link-alt"></i></a>
         `,
-        headphones: `I'm still new to the audio world, 
-        but I already have a little collection of headphones. <br>
-        It is very enjoyable to listen to some music with different hardware.
-        Do you know that you can purchase a good pair of headphones for just 20 USD? Check it out: <br>
-        <a target="_blank" href="http://www.gearbest.com/headsets/pp_270782.html?vip=401831"><i class="fas fa-external-link-alt"></i></a>
-        `,
-        talk: `Do you like talking? Me too! <br> 
-        I really enjoy discussing new ideas and help others. <br>
-        I'm also adicted to "cases" and read a lot in Quora and Medium. <br>
-        <a target="_blank" href="https://www.quora.com"><i class="fas fa-external-link-alt"></i></a>
-        `,
-        icetea: `If you want to see me happy a cup of iced tea is a great start! <br> 
-        I also enjoy to go out for a drink and a talk. <br>
-        If I have the time, I try to do mix stuff with tea... <br>
-        <a target="_blank" href="https://www.reddit.com/r/tea/"><i class="fas fa-external-link-alt"></i></a>
-        `
       },
       professional: {
         title: 'Professional',
@@ -45,7 +23,13 @@ const locale = {
         Most of the things I learned and used on a day-to-day basis at work was out of my own curiosity. <br>
         Motivation for me is a very important factor and my productivity depends a lot on it. <br>
         `,
-        js: `Javascript is today the language that I am most confident with. <br>
+	C++: `C was my first love, but I married with C++. <br>
+	All the news standards that C++11 brought was awesome!!
+	I study all about C++ in my free time, smart pointer, templates, containers...
+	Here a link that help me a lot!
+        <a target="_blank" href="https://www.reddit.com/r/cpp"><i class="fas fa-external-link-alt"></i></a>
+        `,
+        ts: `Typescript is today the language that I am most confident with. <br>
         Node.js is an amazing tool in the right hands! <br>
         I like to write simple and elegant code, and I try to keep that standard in all my codes. <br>
         <a target="_blank" href="https://nodejs.org/en/"><i class="fas fa-external-link-alt"></i></a>
@@ -55,21 +39,6 @@ const locale = {
         I still want to improve my skills in this language. <br>
         <a target="_blank" href="https://docs.python.org/3/library/asyncio.html"><i class="fas fa-external-link-alt"></i></a>
         `,
-        solidity: `Solidity is the language that moves the Ethereum ecosystem. <br>
-        It is a language that I put a lot of effort in understanding it, and I realized that without
-        basic concepts of criptocoins it is impossible to learn it.<br>
-        <a target="_blank" href="https://www.ethereum.org/greeter"><i class="fas fa-external-link-alt"></i></a>
-        `,
-        c: `I learned programming in C. <br>
-        So C have a special place in this collection, although I dont't use it much today. <br>
-        Some projects in "CUDA" and "Concurrent Programming" I did in this language. <br>
-        <a target="_blank" href="http://devdocs.io/c/"><i class="fas fa-external-link-alt"></i></a>
-        `,
-        go: `I don't have any experience in GO. <br>
-        It is the language that I'm most curious about and I'm still a student. <br>
-        GO's logo is epic! <br>
-        <a target="_blank" href="https://golang.org/doc/install"><i class="fas fa-external-link-alt"></i></a>
-        `
       },
       toolbelt: {
         title: 'Favorite Apps',
