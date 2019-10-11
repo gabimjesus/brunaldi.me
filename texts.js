@@ -23,7 +23,8 @@ const locale = {
         Most of the things I learned and used on a day-to-day basis at work was out of my own curiosity. <br>
         Motivation for me is a very important factor and my productivity depends a lot on it. <br>
         `,
-	C++: `C was my first love, but I married with C++. <br>
+      
+        Cpp: `C was my first love, but I married with C++. <br>
 	All the news standards that C++11 brought was awesome!!
 	I study all about C++ in my free time, smart pointer, templates, containers...
 	Here a link that help me a lot!
